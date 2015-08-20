@@ -1,0 +1,17 @@
+#plain text
+*.txt
+
+#image
+image
+
+# ignore dist folder
+dist
+
+#Dependency directory
+node_modules
+app/bower_components
+bower_components
+
+# Logs
+logs
+*.log
